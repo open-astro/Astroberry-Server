@@ -1,2 +1,2 @@
-# Astroberry-Server
+# AstroberryServer
 Astroberry Server for ASIAIR Pro
